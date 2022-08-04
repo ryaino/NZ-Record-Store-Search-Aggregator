@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4842870-47a0-45a9-8b29-d7a9c605c90d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/ScraperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/config/SeleniumConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/controllers/MasterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/IdentifierSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/MasterReleaseVersions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/SearchableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/discogs/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/discogs/Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/discogs/Release.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/hits/AllHits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/hits/JustForTheRecordHit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/hits/MarbecksHit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/data/hits/RealGroovyHit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/services/DiscogsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/services/GatewayService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/services/JustForTheRecordService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/services/MarbecksService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/java/field/ryan/scraper/services/RealGroovyScraperService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/src/test/java/field/ryan/scraper/ScraperApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Co2LvouulzBeqG6FIB3zFxOtRj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Ryan/source/java/scraper/scraper",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.scopes"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="JarApplication" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="field.ryan.scraper.ScraperApplication" />
+      <module name="scraper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4842870-47a0-45a9-8b29-d7a9c605c90d" name="Changes" comment="" />
+      <created>1659454566195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659454566195</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
